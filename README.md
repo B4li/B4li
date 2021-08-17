@@ -1,10 +1,12 @@
-### Hello World 👋 ! 
+### Hello World ! 
 
-# Je suis un étudiant en informatique !
+# Mes informations :
 
 - 🔭 Je travail actuellement sur plusieurs langage comme JS et C++
 - 🌱 J'essaie aussi d'apprendre d'autre langage comme bash, etc...
 - 🥅 Je vais aussi essayer de publier des projets open source
+
+---
 
 ### Mes réseaux:
 
@@ -12,6 +14,8 @@
 [<img align="left" alt="bali.main | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+---
 
 ### Langages et outils:
 
@@ -23,9 +27,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
 
 ---
 
