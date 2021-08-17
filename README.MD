@@ -10,7 +10,7 @@
 
 [<img align="left" alt="4kiraa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bali.main | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bali | Discord" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-discord-1.png" />][discord]
+[<img align="left" alt="bali | Discord" width="22px" src="https://icons-for-free.com/iconfiles/png/512/bxl+discord-1325051932754699868.png" />][discord]
 
 <br />
 
