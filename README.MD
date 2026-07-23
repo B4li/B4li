@@ -1,46 +1,159 @@
-### Hello World 🖐 ! 
+<div align="center">
 
-# Mes informations :
+# 👋 Hey, bienvenue sur mon GitHub
 
-- 🔭 Je travail actuellement sur plusieurs langage comme JS et C++
-- 🌱 J'essaie aussi d'apprendre d'autre langage comme bash, etc...
-- 🥅 Je vais aussi essayer de publier des projets open source
+### Web Developer • UI/UX • Creative Coding
 
-### Mes réseaux:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+%F0%9F%91%8B;Je+cr%C3%A9e+des+exp%C3%A9riences+web+modernes.;Design.+Code.+Create.+%E2%9C%A8" alt="Typing SVG" />
 
-[<img align="left" alt="4kiraa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="bali.main | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bali | Discord" width="22px" src="https://icons-for-free.com/iconfiles/png/512/bxl+discord-1325051932754699868.png" />][discord]
-
-<br />
-
----
-
-### Langages et outils:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Webstorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" />
-<img align="left" alt="IntelliJ" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
-<br />
+
+Développeur passionné par la création d'expériences **modernes, fluides et intuitives**.
+
+J'aime transformer une idée en un véritable projet, en accordant autant d'importance au **design**, à l'**expérience utilisateur** et aux **performances** qu'au code lui-même.
+
+</div>
 
 ---
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
+## ⚡ Technologies
 
-  <img align="left" alt="bali github stats" src="https://github-readme-stats.vercel.app/api?username=B4li&show_icons=true&hide_border=true" />
+<div align="center">
 
-</details>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,nodejs,vite&perline=8" />
 
-[twitter]: https://twitter.com/4kiraa
-[instagram]: https://instagram.com/bali.main
-[discord]: https://discords.com/bio/p/bali
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,figma,docker,linux,nginx&perline=8" />
+
+</div>
+
+---
+
+## 🚀 Projets principaux
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Projet 01
+
+Une expérience web moderne conçue autour d'une interface fluide, intuitive et responsive.
+
+**Technologies**
+
+`Vue.js` `JavaScript` `CSS`
+
+⭐ [Découvrir le projet](https://github.com/TON_USERNAME/NOM_DU_PROJET)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Projet 02
+
+Application pensée pour offrir une expérience rapide avec une architecture propre et évolutive.
+
+**Technologies**
+
+`TypeScript` `Node.js` `Vue.js`
+
+⭐ [Découvrir le projet](https://github.com/TON_USERNAME/NOM_DU_PROJET)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Projet 03
+
+Interface moderne mettant l'accent sur le design, les animations et l'expérience utilisateur.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+⭐ [Découvrir le projet](https://github.com/TON_USERNAME/NOM_DU_PROJET)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 Projet 04
+
+Un espace dédié à mes expérimentations, concepts et nouvelles idées.
+
+**Technologies**
+
+`React` `Vite` `Node.js`
+
+⭐ [Découvrir le projet](https://github.com/TON_USERNAME/NOM_DU_PROJET)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Activité
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
+---
+
+## 💭 Ma philosophie
+
+<div align="center">
+
+> **Simple ideas. Clean code. Great experiences.**
+
+Je cherche constamment à apprendre, expérimenter et construire des projets toujours plus ambitieux.
+
+`Think` → `Design` → `Build` → `Improve` 🚀
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting
+
+![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME\&style=flat-square)
+
+<br>
+
+⭐ **N'hésite pas à explorer mes repositories et suivre mes prochains projets.**
+
+</div>
