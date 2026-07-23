@@ -126,7 +126,7 @@ Un espace dédié à mes expérimentations, concepts et nouvelles idées.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/B4li/B4li/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/B4li/B4li/output/github-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
