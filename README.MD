@@ -100,13 +100,13 @@ Un espace dédié à mes expérimentations, concepts et nouvelles idées.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=B4li&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4li&layout=compact&hide_border=true&theme=transparent" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=B4li&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -116,7 +116,7 @@ Un espace dédié à mes expérimentations, concepts et nouvelles idées.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME&theme=github-compact&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=B4li&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
@@ -126,7 +126,7 @@ Un espace dédié à mes expérimentations, concepts et nouvelles idées.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TON_USERNAME/TON_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/B4li/B4li/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
@@ -150,7 +150,7 @@ Je cherche constamment à apprendre, expérimenter et construire des projets tou
 
 ### ✨ Thanks for visiting
 
-![Profile Views](https://komarev.com/ghpvc/?username=TON_USERNAME\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=B4li\&style=flat-square)
 
 <br>
 
